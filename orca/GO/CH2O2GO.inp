@@ -1,0 +1,20 @@
+# avogadro generated ORCA file
+# CH2O2 | Geometry Optimization | B3LYP/cc-pVQZ
+# 
+! Opt B3LYP cc-pVQZ 
+
+%maxcore 1365
+
+%pal
+   nprocs 12
+end
+
+* xyz 0 1
+   O      0.534039    0.497825    0.880960
+   C     -0.403061   -0.081875    0.106060
+   O     -0.231761   -0.460775   -1.024440
+   H      1.350839    0.541625    0.346260
+   H     -1.345861   -0.154075    0.667260
+*
+
+

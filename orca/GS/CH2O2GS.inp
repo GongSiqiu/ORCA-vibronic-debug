@@ -1,0 +1,17 @@
+# avogadro generated ORCA file
+# CH2O2 | Frequencies | B3LYP/cc-pVQZ
+# 
+! Opt Freq B3LYP cc-pVQZ
+%FREQ SCALFREQ 0.98
+
+END
+%maxcore 1365
+
+
+%pal
+   nprocs 12
+end
+
+* xyzfile 0 1 ../GO/CH2O2GO_trj.xyz
+
+
